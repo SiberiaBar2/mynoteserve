@@ -7,6 +7,7 @@ __pycache__/
 *.so
 
 log/
+resource/
 
 # Distribution / packaging
 .Python
