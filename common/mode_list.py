@@ -1,6 +1,5 @@
 from datetime import datetime
 
-
 def model_list(result):
     list_result = []
 
